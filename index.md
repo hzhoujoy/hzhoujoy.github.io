@@ -1,5 +1,15 @@
-Here you can say lots of fun things about your site.
+# Something about myself
+My name is Huiping Zhou and go by Joy.
 
-Maybe say a some things about yourself.
+I am a plant pathologist with decades of experience in the agricultural field.
 
-Or maybe what you plan to blog about.
+I have been working at the CIPM at NC State as a pest risk analyst for more than 5 years.
+
+I took SAS course as NCSU this summer and I am learning R this Fall.
+
+## My hobbies
+I love flowers and also enjoy gardening. 
+
+I enjoy engaging in jogging, walking, and playing pingpong game with my family
+### My future plan
+I am trying to enhancing my knowledge of statistics and looking forward transitioning to a new career path.
