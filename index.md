@@ -1,6 +1,5 @@
 # Something about myself
 My name is Huiping Zhou and go by Joy.
-
     - I am a plant pathologist with decades of experience in the agricultural field.  
     - I have been working at the CIPM at NC State as a pest risk analyst for more than 5 years.  
     - I took SAS course as NCSU this summer and I am learning R this Fall.
@@ -9,11 +8,6 @@ My name is Huiping Zhou and go by Joy.
 ## Image
 ![that's me]  
 (C:/Pest List/Self documents/Photoes/IMG_9548.JPG)  
-![Screenshot of a comment on a GitHub]
-(https://myoctocat/assets/images/base-octocat.svg)
-
-![try] (https://static.photocdn.pt/images/articles/2018/12/05/articles/2017_8/beginner_photography_mistakes-1.webp)
-
 
 ## My hobbies
 I love flowers and also enjoy gardening. 
