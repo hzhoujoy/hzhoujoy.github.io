@@ -9,7 +9,7 @@ My name is _Huiping Zhou_ and go by _Joy_.
 
 **That's me**
 
-![That's me](https://github.com/hzhoujoy/hzhoujoy.github.io/blob/main/photome.jpg)  
+![That's me](https://github.com/hzhoujoy/hzhoujoy.github.io/blob/main/Joy.jpg)
 
 ## My hobbies
 - I love flowers and also enjoy gardening. 
