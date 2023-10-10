@@ -1,3 +1,9 @@
+---
+layout: post
+title: Open Disease Data API Vignette
+---
+
+
 # `disease.sh - Open Disease Data API` Vignette
 ## **Introduction**
 In this vignette, I will provide instructions on how to access and analyze data from the disease.sh - Open Disease Data API. The API provides valuable information about diseases, including Covid-19, and offers a wide range of endpoints for data retrieval.
