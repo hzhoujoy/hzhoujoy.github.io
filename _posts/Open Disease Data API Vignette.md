@@ -25,4 +25,6 @@ In future projects, I plan to explore APIs more extensively and consider using A
 You can access my work using this [`link`](https://hzhoujoy.github.io/ST558_Project2/). By sharing this code, I hope it will assist you in working with APIs for your own data analysis endeavors.
 
 
-
+SELECT *
+FROM sys.tables
+WHERE [name] = 'SomeTable'
