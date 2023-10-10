@@ -1,7 +1,7 @@
 # `disease.sh - Open Disease Data API` Vignette
 ## **Introduction**
 In this vignette, I will provide instructions on how to access and analyze data from the disease.sh - Open Disease Data API. The API provides valuable information about diseases, including Covid-19, and offers a wide range of endpoints for data retrieval.
-Data Retrieval and Analysis
+## **Data Retrieval and Analysis**
 To summarize the work accomplished in this vignette, I developed functions to interact with various endpoints of the disease.sh - Open Disease Data API. I retrieved data from these endpoints and conducted exploratory data analysis using various techniques, including numerical summaries, contingency tables, and data visualization with plots.
 ## **Key Findings**
 During the analysis, I made several interesting observations:
