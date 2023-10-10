@@ -20,5 +20,5 @@ You can access my work using this [`link`](https://hzhoujoy.github.io/ST558_Proj
 
 
 SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
+FROM sys.tables
+WHERE [name] = 'SomeTable'
