@@ -16,7 +16,7 @@ I encountered some challenges during the process:
 - Limited information in the retrieved data sets posed limitations on the depth of analysis that could be conducted.
 ### **Future Directions**
 In future projects, I plan to explore APIs more extensively and consider using APIs that require an API key. This will enable me to access richer and more comprehensive datasets for analysis.
-You can access my work using this [`link`](https://hzhoujoy.github.io/ST558_Project2/). By sharing this code, I hope it will assist you in working with APIs for your own data analysis endeavors.  
+You can access my work using the following links. By sharing this code, I hope it will assist you in working with APIs for your own data analysis endeavors.  
 
 - [`Rendered Github Pages Site of Project`](ttps://hzhoujoy.github.io/ST558_Project2/)   
 - [`The Regular Repo of the Project`](https://github.com/hzhoujoy/ST558_Project2)  
