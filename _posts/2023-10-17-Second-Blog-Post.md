@@ -15,7 +15,7 @@ The primary purpose of EDA is to explore the data without making premature assum
   + **Multivariate Graphical:** Employ techniques like grouped bar plots, scatter plots, bubble charts, or heat maps to visualize relationships among multiple variables.  
 Commonly used tools for EDA include **Python** and **R**.  
 ### Compile a comprehensive report with your __`findings`__
-After EDA, you can present yoour findings in a comprehensive report inculding the following: 
+After EDA, you can present your findings in a comprehensive report inculding the following: 
   + Basic dataset descriptions  
   + Standard deviations  
   + Analysis of categorical variables  
