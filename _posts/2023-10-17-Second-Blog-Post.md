@@ -32,8 +32,4 @@ This report enhances your understanding of dataset variables and their interrela
 - https://en.wikipedia.org/wiki/Exploratory_data_analysis  
 - https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
+ 
