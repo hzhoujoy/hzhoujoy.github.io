@@ -22,11 +22,3 @@ You can access my work using the following links. By sharing this code, I hope i
 - [`The Regular Repo of the Project`](https://github.com/hzhoujoy/ST558_Project2)  
 
 
-
-
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
