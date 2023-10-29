@@ -24,6 +24,6 @@ The choice of variable selection technique often depends on the dataset's charac
 The selection should align with research goals and account for data characteristics, including variable relationships and multicollinearity. Ultimately, the variable selection technique chosen should be guided by the specific requirements and objectives of the regression modeling task.
 
 ### References:  
-Heinze, G., C. Wallisch, and D. Dunkler. 2018. Variable selection - A review and recommendations for the practicing statistician. Biom J 60(3):431-449.
-Ratner, B. 2010. Variable selection methods in regression: Ignorable problem, outing notable solution. Journal of Targeting, Measurement and Analysis for Marketing 18(1):65-75.
+Heinze, G., C. Wallisch, and D. Dunkler. 2018. Variable selection - A review and recommendations for the practicing statistician. Biom J 60(3):431-449.  
+Ratner, B. 2010. Variable selection methods in regression: Ignorable problem, outing notable solution. Journal of Targeting, Measurement and Analysis for Marketing 18(1):65-75.  
 https://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf
