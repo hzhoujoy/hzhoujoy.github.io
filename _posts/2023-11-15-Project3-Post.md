@@ -17,5 +17,5 @@ The project provided valuable insights into problem-solving strategies. Utilizin
 
 To access the rendered repo and GitHub repo, please check the following links:  
 - [Rendered Repository](https://fhzhkunming.github.io/ST558Project3/)
-- [GitHub Repository](https://fhzhkunming.github.io/ST558Project3/)
+- [GitHub Repository](https://github.com/fhzhkunming/ST558Project3)
 
