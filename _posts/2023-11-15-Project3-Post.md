@@ -15,14 +15,7 @@ The most challenging aspect for me revolved around managing updates on GitHub. I
 #### What are your big takeaways from this project?
 The project provided valuable insights into problem-solving strategies. Utilizing Google for searching and finding appropriate solutions proved instrumental in overcoming challenges. Effective communication with my partner was pivotal; frequent discussions and alignment of efforts were key to successfully completing the project.
 
-Access the Rendered Document and GitHub Repository
-To access the rendered document, please follow these links:
-- Analysis for [SomeElementary](https://fhzhkunming.github.io/ST558Project3/SomeElementary.html)  
-- Analysis for [SomeHighSchool](https://fhzhkunming.github.io/ST558Project3/SomeHighSchool.html)  
-- Analysis for [HighSchool](https://fhzhkunming.github.io/ST558Project3/HighSchool.html)  
-- Analysis for [SomeCollege](https://fhzhkunming.github.io/ST558Project3/SomeCollege.html)  
-- Analysis for [College](https://fhzhkunming.github.io/ST558Project3/College.html)  
-
-To check the GitHub Repository, please use this link:
-- [GitHub Repository](https://fhzhkunming.github.io/ST558Project3/).
+To access the rendered repo and GitHub repo, please check the following links:  
+- [Rendered Repository](https://fhzhkunming.github.io/ST558Project3/)
+- [GitHub Repository](https://fhzhkunming.github.io/ST558Project3/)
 
